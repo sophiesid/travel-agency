@@ -819,8 +819,7 @@ input[type="search"] {
       margin-bottom: 37px; }
   .ba-contact .ba-arrows {
     margin-top: 37px;
-    position: relative;
-    left: 84%; }
+    text-align-last: right; }
     .ba-contact .ba-arrows a:hover {
       opacity: .3; }
     .ba-contact .ba-arrows img {
